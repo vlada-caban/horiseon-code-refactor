@@ -1,14 +1,20 @@
-  * {
+ /* Universal selector */
+ * {
      box-sizing: border-box;
      padding: 0;
      margin: 0;
  }
 
+ /* Styling for all elements of the element type on the page */
  body {
      background-color: #d9dcd6;
  }
 
- /* Header section elements */
+ p {
+     font-size: 16px;
+ }
+
+ /* Header section styling */
  header {
      padding: 20px;
      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -22,25 +28,6 @@
      font-size: 48px;
  }
 
- a {
-     color: #ffffff;
-     text-decoration: none;
- }
-
- a:link {
-     text-decoration: none;
- }
-
- a:hover {
-     text-decoration: underline;
- }
-
- /* Paragraph element for the entire page */
- p {
-     font-size: 16px;
- }
-
- /* Header section styling classes*/
  .seo {
      color: #d9dcd6;
  }
@@ -53,9 +40,26 @@
      font-size: 20px;
  }
 
- .navigation li {
+ .navigation ul {
+     list-style-type: none;
+ }
+
+ .navigation ul li {
      display: inline-block;
      margin-left: 25px;
+ }
+
+ a {
+     color: #ffffff;
+     text-decoration: none;
+ }
+
+ a:link {
+     text-decoration: none;
+ }
+
+ a:hover {
+     text-decoration: underline;
  }
 
  /* Hero section styling */
@@ -130,7 +134,7 @@
 
  .benefit-lead h3,
  .benefit-brand h3,
- .benefit-cost h3{
+ .benefit-cost h3 {
      margin-bottom: 10px;
      text-align: center;
  }
@@ -143,14 +147,14 @@
      max-width: 150px;
  }
 
-  /* Footer section elements */
-  footer {
-      padding: 30px;
-      clear: both;
-      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-      text-align: center;
-  }
+ /* Footer section elements */
+ footer {
+     padding: 30px;
+     clear: both;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     text-align: center;
+ }
 
-  footer h4 {
-      font-size: 20px;
-  }
+ footer h4 {
+     font-size: 20px;
+ }
