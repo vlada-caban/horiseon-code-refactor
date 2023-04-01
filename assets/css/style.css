@@ -24,11 +24,10 @@
 
  header h1 {
      display: inline-block;
-     color: #d9dcd6;
      font-size: 48px;
  }
 
- .seo {
+ #seo {
      color: #d9dcd6;
  }
 
