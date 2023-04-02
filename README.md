@@ -11,6 +11,7 @@ To achive that following steps were taken:
 - Added accessible alt attributes to image elements.
 - Updated heading attributes to fall in sequential order.
 - Updated title element to a descriptive title.
+- Updated color scheme to improve accessibility. 
 
 As a result, website now is more accessible and optimized for search engine. 
 
@@ -20,11 +21,11 @@ Webpage is located at:
 
 Use menu at the top to navigate to each section.
 
-![main image of the webpage](assets/images/webpage-screenshot-main.png)
+![main image of the webpage](assets/images/webpage-screenshot-main-updated.png)
 
 Example if navigated to "Search Engine Optimization":
 
-![content image of the webpage](assets/images/webpage-screenshot-content.png)
+![content image of the webpage](assets/images/webpage-screenshot-content-updated.png)
 
 ## License
 
