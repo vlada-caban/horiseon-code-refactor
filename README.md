@@ -4,7 +4,7 @@
 
 The goal of this project was to refactor existing codebase to meet accessibility standards so that website is optimized for search engines.
 
-To achive that following steps were taken:
+To achieve that following steps were taken:
 
 - Source code was updated to have semantic HTML elements.
 - Structures of HTML and CSS files were modified so that the elements follow a logical structure.
@@ -17,7 +17,7 @@ As a result, website now is more accessible and optimized for search engine.
 
 ## Usage
 
-Webpage is located at: 
+Webpage is located at: https://vlada-caban.github.io/horiseon-code-refactor/
 
 Use menu at the top to navigate to each section.
 
@@ -29,5 +29,5 @@ Example if navigated to "Search Engine Optimization":
 
 ## License
 
-Plase refer to the LICENSE in the repo.
+Please refer to the LICENSE in the repo.
 
