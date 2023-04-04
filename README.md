@@ -20,11 +20,11 @@ Webpage is located at: https://vlada-caban.github.io/horiseon-code-refactor/
 
 Use menu at the top to navigate to each section.
 
-![main image of the webpage](assets/images/webpage-screenshot-main-04-03-23.png)
+![main image of the webpage](assets/images/full-webpage.png)
 
-Example if navigated to "Search Engine Optimization":
+## Credits
 
-![content image of the webpage](assets/images/webpage-screenshot-content-04-03-23.png)
+Base code developed and provided by Columbia Coding Bootcamp.
 
 ## License
 
